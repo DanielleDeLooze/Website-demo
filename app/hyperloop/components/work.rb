@@ -55,7 +55,7 @@ class Work < Hyperloop::Component
             P do
               "I created this website to highlight my experiences and accomplishments. This is the first website I've created! I built it using the Hyperloop framework that I previously mentioned."
             end
-            A(class: 'link', href: '#'){"Read More"}
+            A(class: 'link', href: 'http://website-demo-ddelooze.c9users.io/project3'){"Read More"}
           end
         end
       end

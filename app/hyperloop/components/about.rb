@@ -13,10 +13,13 @@ class About < Hyperloop::Component
                 DIV(class: 'margin-b-30') do
                   H2 {"About me"}
                   P do
-                    "I'm Danielle DeLooze, orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    "I'm Danielle DeLooze, a computer science student at the University of Rochester. I'm expected to graduate in the Fall of 2018. This past summer I've had an internship at a wonderful company called Catprint. I am continually learning more about software development and computer science from my coursework and personal projects."
                   end
                   P do
-                    "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "At the University of Rochester, I am a member of the Women in Computer chapter. I also participate in the local chapter of Girls Develop It in Rochester. In my spare time, I enjoy reading, making pottery, and video games. I'm currently getting into backpacking and have high hopes of completing the Finger Lakes Trail and climbing all 48 High Peaks in the Adirondacks."
+                  end
+                  P do
+                    "I'm looking for an opportunity to become more exposed to the software development process. I'd like to work at a company with a supportive team that is willing to help new members learn. I want to be challenged with new concepts and I'd love to be able to actively participate in current projects."
                   end
                 end
                 A(class: 'btn-theme btn-theme-md btn-default-bg text-uppercase', href: 'assets/twitter.png', download: 'ddelooze_cv'){"Download my CV"}
