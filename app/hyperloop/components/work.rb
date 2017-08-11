@@ -7,7 +7,7 @@ class Work < Hyperloop::Component
           DIV(class: 'col-sm-6') do
             H2{"Latest Projects"}
             P do
-              "Here's a few of my most recent projects. They've been done for previous classes, internships, and for my own personal projects."
+              "Here's a few of my most recent completed projects. They've been done for previous classes, internships, and for my own personal projects."
             end
           end
         end
